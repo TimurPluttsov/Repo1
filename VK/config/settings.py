@@ -1,7 +1,0 @@
-HOST = "localhost"
-USER = "postgres"
-PASSWORD = "785612QaZ"
-DATABASE = "VKinderDB"
-
-user_token = "vk1.a.dQnLMLluej483LzsdbxzKHQlyxyTP2OwoEC_YEEiWTPUW84iJbDGXfiqorU42oLMtZXJGpmpJAtLmSSczQSRw24RW1DC-wbLOr1Cx6HQlQ8PTXtA2-rG2Qx4R4z2ProlyyNxlkNLGYOuNtrqN_lCWFatCJ7Wxi-uG8i_ojfb99qXhsczQ9cGqUUCiPWknd8m&expires_in=86400&user_id=2726399&state=123456"
-group_token = "vk1.a.RO96mi6ERBuW9Pp3h0wxSUfF3jw4Dlv99nvlaVFabMykls3-PosuPzqvznuBSkc-udssGyL6oS0N4KWyCAFceD9N3sJYcF1hL6WQ6W-S5IP4c7E_VY64xc4sdRgPn4b9Qt0XYdHua44Y_QOraOi18M-3FOKbZ-nmE7qQFEh-t0Vb3hOnLMh7ETskxazH-UuFbSLtd8rRK5cnhbJcfRiytg"
