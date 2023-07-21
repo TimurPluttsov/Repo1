@@ -8,7 +8,7 @@ DATABASE_NAME = 'SearchResults.sqlite'
 engine = create_engine(f'sqlite:///{DATABASE_NAME}')
 Session = sessionmaker(bind=engine)
 
-Base = declarative_base()
+Base = sqlalchemy.orm.declarative_base()
 
 
 def create_db():
